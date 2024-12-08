@@ -71,8 +71,13 @@ The system incorporates regenerative braking to recover kinetic energy, maximizi
 
 ---
 
+## Flowchart
+![Flowchart Photo](link-to-Flowchart)
+
+---
+
 ## Code
-[View the Code](link-to-code-folder)  
+[View the Code](https://github.com/Shreyaswini-2/Self-Charging-EV-BMS-Dual-Motor/blob/main/EVmain.c)  
 
 ---
 
@@ -82,3 +87,9 @@ The system incorporates regenerative braking to recover kinetic energy, maximizi
 3. Torque modes can be switched via user input to adapt to different terrains or driving needs.  
 4. Regenerative braking captures kinetic energy during deceleration, storing it for future use.  
 5. An LCD display provides critical information, including torque mode, battery charge, and performance metrics.
+
+---
+
+## Contact Information
+- Email: shreyaswini100502@gmail.com
+- GitHub: Shreyaswini-2(https://github.com/Shreyaswini-2)
