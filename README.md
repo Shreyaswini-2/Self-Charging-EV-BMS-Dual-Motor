@@ -67,7 +67,7 @@ The system incorporates regenerative braking to recover kinetic energy, maximizi
 ---
 
 ## Hardware Photo
-![Hardware Photo](link-to-hardware-photo.png)  
+![Hardware Photo](https://github.com/Shreyaswini-2/Self-Charging-EV-BMS-Dual-Motor/blob/main/Hardware.png)  
 
 ---
 
