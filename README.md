@@ -62,7 +62,7 @@ The system incorporates regenerative braking to recover kinetic energy, maximizi
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](link-to-circuit-diagram.png)  
+![Circuit Diagram](https://github.com/Shreyaswini-2/Self-Charging-EV-BMS-Dual-Motor/blob/main/EV%20Circuit%20diagram.png)  
 
 ---
 
